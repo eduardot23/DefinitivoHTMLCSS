@@ -1,0 +1,19 @@
+body{
+    background-color: #CF0A0A;
+}
+
+h1{
+    color: #EEEEEE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagen{
+    width: 426px;
+    height: 240px;
+    border-radius: 25%;
+}
+
+a{
+    font-size: 24px;
+    color: black;
+}
