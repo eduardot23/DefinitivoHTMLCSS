@@ -19,3 +19,16 @@ p{
 main div{
     font-size: 1.6rem;
 }
+
+main {
+    width: 100vw;
+    height: 100vh;
+    background-color: purple;
+}
+section{
+    width: 80%;
+    min-width: 320px;
+    height: 500px;
+    background-color: rosybrown;
+    margin: 0 auto;
+}
